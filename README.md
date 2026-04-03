@@ -4,8 +4,6 @@
 
 ### *Advanced NLP System for Multilingual & Code-Mixed Review Analysis*
 
-<div align="center">
-
 <a href="https://nlp-sentiment-analyzer-2026.streamlit.app" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Launch%20Live%20App-Click%20Here-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
