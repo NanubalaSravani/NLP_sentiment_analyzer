@@ -213,13 +213,9 @@ python app.py "demo"
 ---
 ## 🌐 Live Demo
 
-👉 Replace with:
-
-```markdown
 ```bash
 # Try the application here:  
 https://nlp-sentiment-analyzer-2026.streamlit.app
-> ⚠️ Note: App may take a few seconds to load (free hosting).
 ```
 
 
