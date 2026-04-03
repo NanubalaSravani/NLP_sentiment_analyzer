@@ -192,7 +192,7 @@ pip install -r requirements.txt
 ### 4️⃣ Run the Application
 
 ```bash
-[streamlit run app.py](https://nlp-sentiment-analyzer-2026.streamlit.app/)
+https://nlp-sentiment-analyzer-2026.streamlit.app
 ```
 
 
@@ -200,10 +200,10 @@ pip install -r requirements.txt
 
 ```bash
 # Test with a real URL
-python test_scraper.py "https://www.amazon.in/dp/B0EXAMPLE"
+python app.py "https://www.amazon.in/dp/B0EXAMPLE"
 
 # Test with demo data
-python test_scraper.py "demo"
+python app.py "demo"
 ```
 
 ---
