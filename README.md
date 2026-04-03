@@ -192,10 +192,9 @@ pip install -r requirements.txt
 ### 4️⃣ Run the Application
 
 ```bash
-streamlit run app.py
+[streamlit run app.py](https://nlp-sentiment-analyzer-2026.streamlit.app/)
 ```
 
-The app will launch at **`http://localhost:8501`** 🎉
 
 ### 5️⃣ Test the Scraper (Optional)
 
