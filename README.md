@@ -8,7 +8,7 @@
 
 🚀 **Live Demo:**  
 👉 https://nlp-sentiment-analyzer-2026.streamlit.app 
-
+---
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
@@ -210,14 +210,13 @@ python app.py "https://www.amazon.in/dp/B0EXAMPLE"
 python app.py "demo"
 ```
 
----
 ## 🌐 Live Demo
 
 ```bash
 # Try the application here:  
 https://nlp-sentiment-analyzer-2026.streamlit.app 
 ```
-
+---
 ## 🧰 Tech Stack
 
 | Layer | Technology | Purpose |
@@ -353,16 +352,16 @@ Generates a comprehensive markdown report with:
 
 ```bash
 # Amazon product
-python test_scraper.py "https://www.amazon.in/dp/B0CX23V2ZK" 
+python app.py "https://www.amazon.in/dp/B0CX23V2ZK" 
 
 # Flipkart product
-python test_scraper.py "https://www.flipkart.com/product-name/p/itm123"
+python app.py "https://www.flipkart.com/product-name/p/itm123"
 
 # YouTube video
-python test_scraper.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+python app.py "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
 
 # Demo data
-python test_scraper.py "demo"
+python app.py "demo"
 ```
 
 ### Sample Code-Mixed Reviews (Telugu + English)
@@ -576,7 +575,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br/>
 
-Made with ❤️ for the B.Tech AI & DS Final Year Project
+
 
 <br/>
 
