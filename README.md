@@ -9,6 +9,8 @@
 <a href="https://nlp-sentiment-analyzer-2026.streamlit.app" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Launch%20Live%20App-Click%20Here-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
+🚀 **Live Demo:**  
+👉 https://nlp-sentiment-analyzer-2026.streamlit.app
 
 </div>
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
