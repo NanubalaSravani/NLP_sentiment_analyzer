@@ -189,12 +189,11 @@ pip install -r requirements.txt
 
 > **⚠️ PyTorch Note:** If you face issues installing PyTorch, follow the [official guide](https://pytorch.org/get-started/locally/) to install the correct version for your system.
 
-### 4️⃣ Run the Application
+### 4️⃣ Run the Application Locally
 
 ```bash
-https://nlp-sentiment-analyzer-2026.streamlit.app
+streamlit run app.py
 ```
-
 
 ### 5️⃣ Test the Scraper (Optional)
 
@@ -207,6 +206,12 @@ python app.py "demo"
 ```
 
 ---
+## 🌐 Live Demo
+
+```bash
+# Try the application here:  
+https://nlp-sentiment-analyzer-2026.streamlit.app 
+```
 
 ## 🧰 Tech Stack
 
