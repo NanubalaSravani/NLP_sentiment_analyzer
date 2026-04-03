@@ -1,0 +1,26 @@
+# Core NLP & ML
+transformers>=4.38.0
+torch>=2.0.0
+sentencepiece>=0.1.99      # required by XLM-RoBERTa tokenizer
+
+# Data
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0           # for JS-rendered pages (optional, needs ChromeDriver)
+youtube-comment-downloader>=0.1.68   # YouTube comments
+
+# Language Detection
+langdetect>=1.0.9
+
+# Frontend
+streamlit>=1.32.0
+
+# Visualisation
+plotly>=5.18.0
+
+# Utilities
+lxml>=4.9.0                # faster HTML parser for BeautifulSoup
