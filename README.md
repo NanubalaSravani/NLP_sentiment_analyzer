@@ -4,6 +4,11 @@
 
 ### *Advanced NLP System for Multilingual & Code-Mixed Review Analysis*
 
+[![Live App](https://img.shields.io/badge/Live_App-Open-green?style=for-the-badge&logo=streamlit)](https://nlp-sentiment-analyzer-2026.streamlit.app)
+
+🚀 **Live Demo:**  
+👉 https://nlp-sentiment-analyzer-2026.streamlit.app
+
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
@@ -208,10 +213,15 @@ python app.py "demo"
 ---
 ## 🌐 Live Demo
 
+👉 Replace with:
+
+```markdown
 ```bash
 # Try the application here:  
-https://nlp-sentiment-analyzer-2026.streamlit.app 
+https://nlp-sentiment-analyzer-2026.streamlit.app
+> ⚠️ Note: App may take a few seconds to load (free hosting).
 ```
+
 
 ## 🧰 Tech Stack
 
@@ -526,8 +536,8 @@ Please ensure your code follows the project's coding standards and includes appr
 
 | Name | Role | Contact |
 |:---|:---|:---|
-| **Nanubala Sravani** | Project Lead & ML Engineer | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/NanubalaSravani) |
-| *Team Member 2* | NLP & Data Engineer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/) |
+| **Nanubala Sravani** |  NLP & Data Engineer | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/NanubalaSravani) |
+| *Team Member 2* | ML Engineer | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/) |
 | *Team Member 3* | Frontend & Visualization | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/) |
 | *Team Member 4* | Data Collection & Testing | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/) |
 
