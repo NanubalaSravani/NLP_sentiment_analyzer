@@ -1,21 +1,15 @@
-<div align="center">
+<div align="center"> 
 
 # 🧠 Multi-Lingual Review Sentiment & Emotion Analyzer
-
-### *Advanced NLP System for Multilingual & Code-Mixed Review Analysis*
+### *Advanced NLP System for Multilingual & Code-Mixed Review Analysis* 
 
 <a href="https://nlp-sentiment-analyzer-2026.streamlit.app" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Launch%20Live%20App-Click%20Here-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 🚀 **Live Demo:**  
 👉 https://nlp-sentiment-analyzer-2026.streamlit.app
-
-</div>
-[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
+ 
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org) [![Streamlit](https://img.shields.io/badge/Streamlit-1.32+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io) [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co) [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE) [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]() 
 
 <br/>
 
