@@ -17,7 +17,7 @@
 
 <br/>
 
-🎓 **B.Tech AI & Data Science — Academic Year 2024–25**
+🎓 **B.Tech AI & Data Science — Academic Year 2025–26**
 
 An advanced NLP-based system that performs **sentiment analysis**, **emotion detection**, **sarcasm identification**, and **aspect-based insights** on reviews scraped from multiple platforms, with native support for **code-mixed languages (Telugu + English)**.
 
