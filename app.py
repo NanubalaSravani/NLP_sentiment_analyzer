@@ -611,7 +611,7 @@ st.markdown("""
     <div class="hero-right">
         <div class="profile-card">
             <div class="profile-card-header">
-                <div class="profile-avatar">SN</div>
+                <div class="profile-avatar">SA</div>
                 <div>
                     <div class="profile-name">AI-Powered Sentiment Analysis System</div>
                 </div>
